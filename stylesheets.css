@@ -1,0 +1,97 @@
+/* Jumbotron/ Header */
+.jumbotron{
+		background-image: url('https://static.pexels.com/photos/1502/houses-village-path-clothing.jpg');
+		padding: 30%;
+		padding-right: -30%;
+		background-repeat: no-repeat;
+		background-size: cover;
+		width: 100%;
+		margin-top: -40px;
+		background-attachment: fixed;
+		background-position: center;
+
+
+}
+
+.jumbotron h1 {
+		font-family: 'Raleway', sans-serif;
+		position: absolute;
+		top: 24;
+		left: 0;
+		padding-left: 20px;
+		padding-top: 245px;
+		color: white;
+		text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+ul {
+	font-family: 'Alegreya Sans SC';
+}
+strong {
+	color: #B7E8FF;
+}
+
+.mission {
+	margin-top: -30px;
+	padding-bottom: 5%;
+	background: #DBF8FF; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(white, #DBF8FF, #B7E8FF); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(white,#DBF8FF, #B7E8FF); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(white,#DBF8FF,#B7E8FF); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(white,#DBF8FF, #B7E8FF); /* Standard syntax */
+}
+.mission {
+	font-family: 'Alegreya Sans SC';
+	font-size: 30px;
+	text-align: center;
+	position: center;
+
+}
+
+.mission h3 {
+		font-family: 'Alegreya Sans SC';
+		padding: 5% 10%;
+		text-align: center;
+		position: center;
+
+
+	}
+
+	/* Features Section */
+	.features{
+    background: #B7E8FF; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#B7E8FF, #DBF8FF); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#B7E8FF, #DBF8FF); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#B7E8FF, #DBF8FF); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#B7E8FF, #DBF8FF); /* Standard syntax */
+		width: 100%;
+
+	}
+
+	.features p {
+		font-family: 'Alegreya Sans SC', sans-serif;
+		text-align: center;
+		color: black;
+		font-size: 32px;
+		padding-top: 10px;
+}
+ 
+
+/* Footer */
+footer{
+		background-color: #272829;
+		position: absolute;
+		width: 100%;
+		height: auto;
+
+}
+
+footer p {
+		float: left;
+		padding: 2%;
+
+}
+footer p {
+		font-family: 'Alegreya Sans SC', sans-serif;
+		color: #B7E8FF;
+		vertical-align: middle;
+	}
